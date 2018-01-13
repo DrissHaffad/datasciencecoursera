@@ -57,7 +57,7 @@ The Data Structure is Important In order to Make the Script Work
 
 ## CodeBook
 
-For all the variables see the [CodeBook](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+For all the variables see the [CodeBook](https://github.com/DrissHaffad/datasciencecoursera/blob/master/CodeBook.md)
 
 ## Authors
 
